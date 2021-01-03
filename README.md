@@ -1,1 +1,2 @@
-# web-portfolio
+# web-portfolio by Hasibul Haque Hira
+I'm Hasibul Haque Hira. Currently learning and exploring the exciting world of Wed Design and Development from Programming-Hero.com with Jhankar Mahbub Sir. I'm studying in Computer Science and Engineering from Daffodil International University and hopefully I will be graduated soon from the university. I love to design website and excite me a lot that's why I'm trying to learn the web development topics. This is a basic personal portfolio website using just only HTML5 and CSS3. I would like to thank my mentor for guiding me to do this project.
